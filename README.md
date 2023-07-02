@@ -23,3 +23,9 @@ Array and String
 Linked List
 
 1. LinkedListValues-----------> LinkedListValues takes in the head of a linked list and returns a array containing all values of the nodes in the linked list.
+
+2) SumList-----------> Sum Lst takes in a head of linked list and then returns the sum of the list.
+
+3) LinkedListFind----------> Linked List Find takes in the head of a linked list and a target value. The function returns a boolean indicating wheather the llinked list contains it or not.
+
+4)

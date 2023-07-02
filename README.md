@@ -1,6 +1,7 @@
 # Structy
 
 Data Struct and algo
+
 Array and String
 
 1. Uncompress----->The uncompress method takes a compressed string as input and returns the uncompressed string. If a character is a digit, it increments j to continue scanning the number. If a non-digit character is encountered, it extracts the number from the substring. For ex, 3a2b4c --> aaabbcccc
@@ -14,3 +15,11 @@ Array and String
 5) Pair Sum----------> PairSum takes in a list and a target sum as arguments. The function returns a tuple containing a pair of indices whose elements sum to the given target. The indices returned are unique and there is guaranteed to be one such pair that sums to the target.
 
 6) Pair Product----------> Pairproduct takes in a list and a target product as arguments. The function returns a tuple containing a pair of indices whose elements multiply to the given target. The indices returned must be unique. There is guaranteed to be one such pair whose product is the target.
+
+7) Intersection-----------> Intersection takes in two arrays and then returs an array of the common elements of those lists, input lists do not contain duplicate elements.
+
+8) FiveSort-----------> FiveSort takes in an array and it rearranges the array such that all the 5s appear at the end, the funtion performs these operartions in placeby mutaion the original list instead of creating a new one.
+
+Linked List
+
+1. LinkedListValues-----------> LinkedListValues takes in the head of a linked list and returns a array containing all values of the nodes in the linked list.

@@ -28,4 +28,8 @@ Linked List
 
 3) LinkedListFind----------> Linked List Find takes in the head of a linked list and a target value. The function returns a boolean indicating wheather the llinked list contains it or not.
 
-4)
+4)GetNodeValue--------> Get Node Value takes in the head of a linked list and an index value and returns the value of the index in the linked list, if not in the bounds then return -1.
+
+5. ReverselinkedList---------> Reverse linked list takes in the head of a liniked list and then returns the head of the reversed linked list.
+
+6. ZipperList -------> Zippper list function takes in two list and then zipper merge them together and returns the new head node

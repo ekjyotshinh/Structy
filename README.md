@@ -33,3 +33,15 @@ Linked List
 5. ReverselinkedList---------> Reverse linked list takes in the head of a liniked list and then returns the head of the reversed linked list.
 
 6. ZipperList -------> Zippper list function takes in two list and then zipper merge them together and returns the new head node
+
+7) MergeLists ----------> MergeLists takes in the head of two sorted linked lists as arguments. The function should merge the two lists together into single sorted linked list. The function should return the head of the merged linked list.
+
+8) LongestStreak -------------> LongestStreak takes in the head of a linked list as an argument. The function should return the length of the longest consecutive streak of the same value within the list.
+
+9) RemoveNode -------------> RemoveNode takes in the head of a linked list and a target value as arguments. The function should delete the node containing the target value from the linked list and return the head of the resulting linked list. If the target appears multiple times in the linked list, only remove the first instance of the target in the list.
+
+10) InsertNode -------------> InsertNode takes in the head of a linked list, a value, and an index. The function should insert a new node with the value into the list at the specified index. Consider the head of the linked list as index 0. The function should return the head of the resulting linked list.
+
+11) CreateLinkedList ------------> CreateLinkedList takes in a list of values as an argument. The function should create a linked list containing each item of the list as the values of the nodes. The function should return the head of the linked list.
+
+12) AddLists ------------> AddLists takes in the head of two linked lists, each representing a number. The nodes of the linked lists contain digits as values. The nodes in the input lists are reversed; this means that the least significant digit of the number is the head. The function should return the head of a new linked listed representing the sum of the input lists. The output list should have its digits reversed as well.
